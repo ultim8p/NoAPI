@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "codableutils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ultim8p/CodableUtils",
+      "state" : {
+        "revision" : "45a6378f16e700fdbbd6df13a67ebad1f517af80",
+        "version" : "0.0.3"
+      }
+    },
+    {
+      "identity" : "mergeable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ultim8p/Mergeable.git",
+      "state" : {
+        "revision" : "cdb7cbce9cd311f300621594244874c1acec925d",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
